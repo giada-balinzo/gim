@@ -20,4 +20,4 @@
 Leggendo questo testo ho capito che di per sé parla di marionette, ma pian piano leggendolo mi sono resa conto che si tratta di una “metafora”, una strategia per parlare della figura dell’essere umano, del corpo e della consapevolezza di ciò che facciamo. Il fatto che noi possediamo delle emozioni, la capacità di giudicare e pensare, può ridurre le nostre abilità, in questo caso del ballo, a causa delle probabili insicurezze, a differenza delle marionette. È come se perdessimo la nostra naturalezza e spontaneità e ci comportassimo basandoci sulle critiche delle altre persone. Questa modalità viene effettivamente applicata a qualsiasi contesto credo, dal lavoro alle relazioni.
 
 ## Esercizio 2
-- [Esercizio 2: Parallasse](https://github.com/giada-balinzo/gim/esercizio_2/index.html)
+- [Esercizio 2: Parallasse](https://giada-balinzo.github.io/gim/esercizio_2/index.html)
