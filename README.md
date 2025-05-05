@@ -2,14 +2,16 @@
 # Corso di Grafica in movimento 2025, SUSPI
 ## Esercizio 1A
    
-   - [Esercizio 1A: aperto chiuso 2](https://giada-balinzo.github.io/gim/esercizio_1A/acceso_spento_2.html)
-   - 
-   link  
-   link  
-   link  
-   link  
-   link  
-   link  
+   - [Esercizio 1A: acceso spento 2](https://giada-balinzo.github.io/gim/esercizio_1A/acceso_spento_2.html)
+   - [Esercizio 1A: acceso spento 3](https://giada-balinzo.github.io/gim/)
+   - [Esercizio 1A: aperto chiuso 2](https://giada-balinzo.github.io/gim/)
+   - [Esercizio 1A: aperto chiuso 3](https://giada-balinzo.github.io/gim/)
+   - [Esercizio 1A: rotazione 2](https://giada-balinzo.github.io/gim/)
+   - [Esercizio 1A: rotazione 3](https://giada-balinzo.github.io/gim/)
+   - [Esercizio 1A: spostamento 2](https://giada-balinzo.github.io/gim/)
+   - [Esercizio 1A: spostamento 3](https://giada-balinzo.github.io/gim/)
+
+
        
 ## Esercizio 1B  
 
