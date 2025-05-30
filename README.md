@@ -22,3 +22,11 @@ Leggendo questo testo ho capito che di per sé parla di marionette, ma pian pian
 ## Esercizio 2
 - [Esercizio 2: Parallasse animato](https://giada-balinzo.github.io/gim/esercizio_2/index_animato.html)
 - [Esercizio 2: Parallasse interattivo](https://giada-balinzo.github.io/gim/esercizio_2/index_interattivo.html)
+
+
+## Esercizio 3
+- [Esercizio 3: Pong 1](https://giada-balinzo.github.io/gim/esercizio_3/es03_pong_1/index.html)
+- [Esercizio 3: Pong 2](https://giada-balinzo.github.io/gim/esercizio_3/es03_pong_2/index.html)
+- [Esercizio 3: Pioggia](https://giada-balinzo.github.io/gim/esercizio_3/es03_pioggia/index.html)
+- [Esercizio 3: Pioggia 3D](https://giada-balinzo.github.io/gim/esercizio_3/es03_pioggia3D/index.html)
+- [Esercizio 3: Neve](https://giada-balinzo.github.io/gim/esercizio_3/es03_neve/index.html)
