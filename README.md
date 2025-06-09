@@ -33,4 +33,4 @@ Leggendo questo testo ho capito che di per sé parla di marionette, ma pian pian
 
 
 ## Esercizio 3A
-- [Esercizio 3B: Orologio](https://giada-balinzo.github.io/gim/
+- [Esercizio 3B: Orologio](https://giada-balinzo.github.io/gim/esercizio_3B/index.html)
