@@ -3,10 +3,10 @@ let emptying = false;
 let emptyProgress = 0;
 let lastMinute = -1;
 
-let levelOre = 0;        // livello scia verde ore
-let emptyingOre = false; // flag svuotamento scia ore
-let emptyProgressOre = 0;// progresso svuotamento scia ore
-let lastHour = -1;       // ora pre
+let levelOre = 0;        
+let emptyingOre = false; 
+let emptyProgressOre = 0;
+let lastHour = -1;       
 
 
 let levelSecondi = 0;
@@ -42,7 +42,7 @@ function draw() {
 
 
 	let angoloSecondiRosa = map(sc, 0, 60, 0, TWO_PI);
-	fill(255, 105, 180, 150); // rosa trasparente
+	fill(255, 105, 180, 150); 
 	arc(0, 0, 440, 440, -HALF_PI, -HALF_PI + angoloSecondiRosa, PIE);
 
 
@@ -52,7 +52,7 @@ function draw() {
 		emptyProgressOre = 0;
 	}
 	if (!emptyingOre) {
-		levelOre = (h % 12 + mn / 60) / 12;  // frazione dell'ora completa
+		levelOre = (h % 12 + mn / 60) / 12;  
 	}
 	if (emptyingOre) {
 		emptyProgressOre += 0.02;
@@ -65,7 +65,7 @@ function draw() {
 
 
 
-	// acqua
+	
 
 
 	if (mn !== lastMinute){
@@ -114,9 +114,9 @@ function draw() {
 
 
 
-	// ARCO ACQUA
+	
 	noStroke();
-	fill(100, 180, 255, 180); // blu trasparente
+	fill(100, 180, 255, 180); 
 	arc(0, 0, 420, 420, -HALF_PI, -HALF_PI + level * TWO_PI, PIE);
 
 
@@ -132,10 +132,10 @@ function draw() {
 		rotate(i * TWO_PI / 60);
 		
 		if (i % 5 === 0) {
-			strokeWeight(3);  // stanghette più spesse per le ore
+			strokeWeight(3);  
 			line(0, -170, 0, -190);
 		} else {
-			strokeWeight(1);  // stanghette sottili per i minuti
+			strokeWeight(1);  
 			line(0, -175, 0, -185);
 		}
 		
