@@ -25,11 +25,11 @@ Leggendo questo testo ho capito che di per sé parla di marionette, ma pian pian
 
 
 ## Esercizio 3A
-- [Esercizio 3A: Pong 1](https://giada-balinzo.github.io/gim/esercizio_3/es03_pong_1/index.html)
-- [Esercizio 3A: Pong 2](https://giada-balinzo.github.io/gim/esercizio_3/es03_pong_2/index.html)
-- [Esercizio 3A: Pioggia](https://giada-balinzo.github.io/gim/esercizio_3/es03_pioggia/index.html)
-- [Esercizio 3A: Pioggia 3D](https://giada-balinzo.github.io/gim/esercizio_3/es03_pioggia3D/index.html)
-- [Esercizio 3A: Neve](https://giada-balinzo.github.io/gim/esercizio_3/es03_neve/index.html)
+- [Esercizio 3A: Pong 1](https://giada-balinzo.github.io/gim/esercizio_3A/es03_pong_1/index.html)
+- [Esercizio 3A: Pong 2](https://giada-balinzo.github.io/gim/esercizio_3A/es03_pong_2/index.html)
+- [Esercizio 3A: Pioggia](https://giada-balinzo.github.io/gim/esercizio_3A/es03_pioggia/index.html)
+- [Esercizio 3A: Pioggia 3D](https://giada-balinzo.github.io/gim/esercizio_3A/es03_pioggia3D/index.html)
+- [Esercizio 3A: Neve](https://giada-balinzo.github.io/gim/esercizio_3A/es03_neve/index.html)
 
 
 ## Esercizio 3B
